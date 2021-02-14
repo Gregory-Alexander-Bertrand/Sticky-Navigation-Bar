@@ -14,11 +14,11 @@ body {
   margin: 0 auto;
 }
 
-.container .logo {
+.navigation .logo {
   color: #f6f1ee;
 }
 
-.container.active .logo {
+.navigation.active .logo {
   color: #95483f;
 }
 
@@ -101,7 +101,7 @@ body {
 }
 
 .content {
-  background-color: #b78e80;
+  background-color: rgba(183, 142, 128, 0.4);;
 }
 
 .content p {
